@@ -7,3 +7,4 @@ sentence-transformers==3.4.1
 numpy
 torch
 pysqlite3-binary  
+sqlite3 
