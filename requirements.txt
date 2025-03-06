@@ -1,8 +1,10 @@
-streamlit
-chromadb
-langchain
-langchain_huggingface
-langchain_groq
-sentence-transformers
 numpy
-torch
+PyPDF2
+langchain
+chromadb
+langchain-huggingface
+streamlit
+groq
+langchain_community
+sentence-transformers
+pysqlite3-binary 
