@@ -6,4 +6,3 @@ langchain_groq
 sentence-transformers
 numpy
 torch
-python3
