@@ -6,3 +6,4 @@ langchain_groq
 sentence-transformers
 numpy
 torch
+sqlite3
