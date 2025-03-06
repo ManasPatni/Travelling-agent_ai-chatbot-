@@ -6,5 +6,4 @@ langchain_groq==0.2.4
 sentence-transformers==3.4.1
 numpy
 torch
-pysqlite3-binary  
-sqlite3.35.0
+sqlite3
