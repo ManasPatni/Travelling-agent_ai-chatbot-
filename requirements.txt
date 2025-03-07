@@ -1,10 +1,8 @@
 numpy
-PyPDF2
-langchain
-chromadb
-langchain-huggingface
+PyMuPDF
 streamlit
 groq
-langchain_community
 sentence-transformers
-qdrant vectordb
+langchain-huggingface
+chromadb
+langchain_community
