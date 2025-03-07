@@ -1,8 +1,7 @@
-numpy
-PyMuPDF
 streamlit
-groq
-sentence-transformers
-langchain-huggingface
 chromadb
-langchain_community
+langchain
+langchain_huggingface
+langchain_groq
+sentence-transformers
+PyPDF2
