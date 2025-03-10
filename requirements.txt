@@ -1,5 +1,6 @@
 streamlit
 chromadb
+pysqlite3-binary>=0.5.0  # Ensures compatibility with latest SQLite versions
 langchain
 langchain_huggingface
 langchain_groq
