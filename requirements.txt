@@ -1,6 +1,6 @@
 streamlit
 chromadb
-pysqlite3
+SQLite-binary
 langchain
 langchain_huggingface
 langchain_groq
