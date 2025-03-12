@@ -10,3 +10,4 @@ langchain-community>=0.0.29
 langchain-groq>=0.1.0
 faiss-cpu>=1.7.2
 numpy
+sqlite3>=3.35.0
