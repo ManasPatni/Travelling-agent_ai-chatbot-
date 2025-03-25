@@ -1,5 +1,5 @@
 import streamlit as st
-#import chromadb
+import chromadb
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
 from langchain.schema import HumanMessage, SystemMessage
