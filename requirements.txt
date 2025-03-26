@@ -5,4 +5,3 @@ langchain-huggingface
 langchain-groq
 sentence-transformers
 PyPDF2
-sqlite3 >= 3.49.1
